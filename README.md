@@ -8,6 +8,6 @@ Some of my results:
 # Image Captioning
 In this part, the model is expected to locate a specific object given its description:
 ![alt text](Images/Compr1.png)
-![alt text](Images/Compr2.png)
+<!-- ![alt text](Images/Compr2.png) -->
 
 
