@@ -4,7 +4,7 @@ In this repo, I have provided the solution to my Deep Learning course project. T
 
 # Image Comprehension
 Some of my results:
-![alt text](Images/Comp.png)
+![alt text](Images/Comp2.png)
 # Image Captioning
 In this part, the model is expected to locate a specific object given its description:
 ![alt text](Images/Compr1.png)
